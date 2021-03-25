@@ -1,5 +1,25 @@
-![GitHub Logo](https://i.imgur.com/8HIH7Kq.png)
-# Hi, i am **chipnick**
-🤗 Welcome to me profile<br>
-<i>**More about me:**</i>
-![about_me](https://i.imgur.com/nu4nwnu.png)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <img src="https://i.imgur.com/8HIH7Kq.png" alt="" style="width: 100%;">
+                <h1 style="">Hi, i am <b>chipnick</b></h1>
+                <div style="margin-left: 15px;">
+                <p style='margin-top: -15px;'>🤗 Welcome to me profile</p>
+                <div>More about me</div>
+                <img src="https://i.imgur.com/nu4nwnu.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
