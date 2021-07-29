@@ -13,11 +13,6 @@
             <div class="col-12">
                 <img src="https://i.imgur.com/8HIH7Kq.png" alt="" style="width: 100%;">
                 <h1 style="">Hi, i am <b>chipnick</b></h1>
-                <div style="margin-left: 15px;">
-                <p style='margin-top: -15px;'>🤗 Welcome to me profile</p>
-                <div>More about me</div>
-                <img src="https://i.imgur.com/nu4nwnu.png" alt="">
-                </div>
             </div>
         </div>
     </div>
